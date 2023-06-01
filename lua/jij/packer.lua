@@ -30,6 +30,7 @@ use ('hrsh7th/cmp-nvim-lsp')
 use ('hrsh7th/cmp-buffer')
 use ('saadparwaiz1/cmp_luasnip')
 use ('rafamadriz/friendly-snippets')
+use ('nvim-tree/nvim-tree.lua')
 use {
 	'VonHeikemen/lsp-zero.nvim',
 	branch = 'v2.x',

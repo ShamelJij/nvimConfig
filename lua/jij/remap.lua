@@ -1,4 +1,3 @@
-print('this is from remap')
 vim.g.mapleader = "ö"
 vim.keymap.set("n", "<leader>e", ':NvimTreeFocus<CR>')
 vim.keymap.set("n", "<leader>j", ":q<CR>")
